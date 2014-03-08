@@ -1,4 +1,4 @@
-Source: golang-binarytest
+Source: golang-huin-gobinarytest
 Section: devel
 Priority: optional
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9.0.0), dh-golang, golang-go
 Standards-Version: 3.9.5
 Homepage: https://github.com/huin/gobinarytest
 
-Package: golang-binarytest-dev
+Package: golang-huin-gobinarytest-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: Helper code for unit testing binary encoding code

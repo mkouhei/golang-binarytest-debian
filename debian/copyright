@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang-binarytest
+Upstream-Name: gobinarytest
 Source: https://github.com/huin/gobinarytest
 
 Files: *
